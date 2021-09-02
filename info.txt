@@ -1,0 +1,6 @@
+file.txt
+
+
+#### comparing working directory to staging 
+ git diff --staged
+ comparing
