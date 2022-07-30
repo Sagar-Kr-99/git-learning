@@ -54,7 +54,10 @@
 26. git log -p -3
 27. git log --stat
 28. git log --pretty=oneline
-29. 
+29. git log --pretty=short
+30. git log --pretty=full
+31. git log --since==2.days
+32. 
 
 
 
