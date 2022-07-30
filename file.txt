@@ -2,4 +2,4 @@ file.txt
 sagar
 
 #### comparing working directory to staging 
-
+ git diff --staged
