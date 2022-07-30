@@ -1,7 +1,16 @@
 # git-learning
 
+## How to use .gitignore
 
-
+###  ignore file error.log
+1. error.log
+### ignore multiple .log file
+2. *.log
+### ignore any directory/folder
+3. dir/
+### ignore only outter directory/folder
+3. /dir/
+### git ignore blank folder by default
 
 
 # GIT Commands
@@ -15,11 +24,10 @@
 7. git status
 8. git init
 
-
 ## --a means all
-
 9. git add --a
 10. git add .
+
 11. git commit -m "msg"
 12. git log
 13. git clone https://github.com/sagar-iitg/git-learning.git
