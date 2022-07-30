@@ -33,9 +33,10 @@
 13. git clone https://github.com/sagar-iitg/git-learning.git
 #### comparing working directory to staging area
 14. git diff 
-#### comparing previous commit to staging area
+#### comparing previous commit to current staging area(green color) --> modified
 15. git diff --staged
-
+### skipping staging area
+16. 
   
 
 
