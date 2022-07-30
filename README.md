@@ -42,7 +42,11 @@
 18. git rev-list --count master 
 ### To get the commit count across all branches:
 19. git rev-list --all --count 
-  
+20. git mv file.txt info.txt
+21. git rm new1.txt
+### if previously git is tracking file then command is to untrack file is:
+22. git rm --cached
+23. 
 
 
 
