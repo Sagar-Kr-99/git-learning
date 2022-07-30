@@ -1,4 +1,4 @@
 file.txt
-sk
+sagar
 
-
+#### comparing working directory to staging area

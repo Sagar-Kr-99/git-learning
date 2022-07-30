@@ -1,4 +1,4 @@
-# git-learning
+# GIT-learning
 
 ## How to use .gitignore
 
@@ -31,7 +31,9 @@
 11. git commit -m "msg"
 12. git log
 13. git clone https://github.com/sagar-iitg/git-learning.git
-14. git 
+#### comparing working directory to staging area
+14. git diff 
+15. 
   
 
 
