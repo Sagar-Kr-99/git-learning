@@ -48,7 +48,13 @@
 22. git rm --cached file.txt
 23. git rm --cached -f file.txt
 ### default branch is master
-24. 
+
+24. git log
+25. git log -p
+26. git log -p -3
+27. git log --stat
+28. git log --pretty=oneline
+29. 
 
 
 
