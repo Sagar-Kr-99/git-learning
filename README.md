@@ -42,13 +42,11 @@
 18. git rev-list --count master 
 ### To get the commit count across all branches:
 19. git rev-list --all --count 
-20. 
+  
 
 
 
-## .git folder
-1. du -c
-2. 
+
 ## clear git repository
 1. rm -rf .git
 
