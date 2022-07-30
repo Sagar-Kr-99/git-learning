@@ -22,12 +22,14 @@
 10. git add .
 11. git commit -m "msg"
 12. git log
+13. git clone https://github.com/sagar-iitg/git-learning.git
+14. 
   
 
 
 
 
 ## clear git repository
- . rm -rf .git
+1. rm -rf .git
 
 
