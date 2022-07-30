@@ -36,7 +36,7 @@
 #### comparing previous commit to current staging area(green color) --> modified
 15. git diff --staged
 ### skipping staging area
-16. 
+16. git commit -am "msg"
   
 
 
