@@ -37,6 +37,11 @@
 15. git diff --staged
 ### skipping staging area
 16. git commit -am "msg"
+### How do I get the Git commit count?
+17. git rev-list --count HEAD
+18. git rev-list --count master 
+### To get the commit count across all branches:
+19. git rev-list --all --count 
   
 
 
