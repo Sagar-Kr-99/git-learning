@@ -57,7 +57,14 @@
 29. git log --pretty=short
 30. git log --pretty=full
 31. git log --since==2.days
-32. 
+32. git log --pretty=format:"%h --%an"
+33. git log --pretty=format:"%h --%ae"
+### unstaged file
+34. git restore --staged <file>
+35. git checkout -- <file>
+36. git checkout -f
+37. 
+
 
 
 
