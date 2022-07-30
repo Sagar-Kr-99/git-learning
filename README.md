@@ -63,7 +63,15 @@
 34. git restore --staged <file>
 35. git checkout -- <file>
 36. git checkout -f
-37. 
+37. git remote  
+38. git remote add origin git@github.com:sagar-iitg/git-learning.git
+39. git remote -v
+### git alias
+40. git config --global alias.st 
+41. git config --global alias.last 'log -p -1'
+42. git config --globa; alias.unstage 'restore --staged --'
+43. 
+
 
 
 
