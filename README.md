@@ -47,6 +47,7 @@
 ### if previously git is tracking file then command is to untrack file is:
 22. git rm --cached file.txt
 23. git rm --cached -f file.txt
+### default branch is master
 24. 
 
 
