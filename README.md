@@ -45,8 +45,9 @@
 20. git mv file.txt info.txt
 21. git rm new1.txt
 ### if previously git is tracking file then command is to untrack file is:
-22. git rm --cached
-23. 
+22. git rm --cached file.txt
+23. git rm --cached -f file.txt
+24. 
 
 
 
