@@ -24,7 +24,7 @@
 7. git status
 8. git init
 
-##### --a means all
+#### --a means all
 9. git add --a
 10. git add .
 
