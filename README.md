@@ -6,5 +6,5 @@
 3. git config --global core editor emacs
 4. git config --global core editor vim
 5. git config user.name
-6.git config user.email
+6. git config user.email
 7.
