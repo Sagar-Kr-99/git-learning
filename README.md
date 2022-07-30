@@ -70,7 +70,9 @@
 40. git config --global alias.st 
 41. git config --global alias.last 'log -p -1'
 42. git config --globa; alias.unstage 'restore --staged --'
-43. 
+### git creating and branching
+43. git chekout -b develop
+44.  
 
 
 
