@@ -1,2 +1,3 @@
 # git-learning
-GIT
+# GIT Commands
+
