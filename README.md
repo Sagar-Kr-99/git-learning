@@ -19,5 +19,7 @@
 ## --a means all
 
 9. git add --a
-10 git add .
-11 
+10. git add .
+11. git commit -m "msg"
+12. git log
+13. 
