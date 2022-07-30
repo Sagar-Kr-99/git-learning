@@ -30,7 +30,7 @@
 
 11. git commit -m "msg"
 12. git log
-13. git clone https://github.com/sagar-iitg/git-learning.git
+13. git clone https://github.com/sagar-iitg/git-learning.git git-learning
 #### comparing working directory to staging area
 14. git diff 
 #### comparing previous commit to current staging area(green color) --> modified
