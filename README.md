@@ -22,4 +22,12 @@
 10. git add .
 11. git commit -m "msg"
 12. git log
-13. 
+  
+
+
+
+
+## clear git repository
+ . rm -rf .git
+
+
