@@ -74,7 +74,7 @@
 44. git config --global 
 45. git stash
 46. git stash pop
-47. 
+47. git checkout -b f2
 
 
 
