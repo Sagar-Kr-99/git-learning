@@ -75,6 +75,11 @@
 45. git stash
 46. git stash pop
 47. git checkout -b f2
+### delete loccal branches
+48. git branch -d f1
+### delete remote branch
+49. git push origin --delete f1
+
 
 
 
