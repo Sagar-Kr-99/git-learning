@@ -9,7 +9,7 @@
 ### ignore any directory/folder
 3. dir/
 ### ignore only outter directory/folder
-3. /dir/
+4. /dir/
 ### git ignore blank folder by default
 
 
