@@ -1,5 +1,5 @@
 # GIT-learning
-
+Conflict Resoultion marker (<<< HEAD) 
 ## How to use .gitignore
 
 ###  ignore file error.log
@@ -82,6 +82,21 @@
 
 
 
+### Branch Management
+1. git branch
+* master
+  develop
+  system
+
+2. git branch -v
+### already merged branches
+3. git branch --merged
+### not already merged branches  
+4. git branch --no-merged
+5. git branch -d develop
+6. git branch -D develop
+7. 
+8. 
 
 
 
