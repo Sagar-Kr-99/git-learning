@@ -3,23 +3,23 @@
 ## How to use .gitignore
 
 ###  ignore file error.log
-1. error.log
+error.log
 ### ignore multiple .log file
-2. *.log
+*.log
 ### ignore any directory/folder
-3. dir/
+dir/
 ### ignore only outter directory/folder
-3. /dir/
+/dir/
 ### git ignore blank folder by default
 
 
 # GIT Commands
 
-1. git config --global user.email "enter your email id"
-2. git config --list
-3. git config --global core editor emacs
-4. git config --global core editor vim
-5. git config user.name
+git config --global user.email "enter your email id"
+git config --list
+git config --global core editor emacs
+git config --global core editor vim
+git config user.name
 6. git config user.email
 7. git status
 8. git init
