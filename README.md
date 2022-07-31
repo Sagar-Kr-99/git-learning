@@ -73,7 +73,7 @@
 43. git config --global --unset alias.st
 ### git creating and branching
 44. git chekout -b develop
-45.  
+45. git branch
 46. 
 47. 
 
