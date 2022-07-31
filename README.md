@@ -79,7 +79,8 @@ Conflict Resoultion marker (<<< HEAD)
 48. git branch -d f1
 ### delete remote branch
 49. git push origin --delete f1
-
+50. git push origin bugfix:mybugfix
+51. 
 
 
 ### Branch Management
@@ -95,7 +96,7 @@ Conflict Resoultion marker (<<< HEAD)
 4. git branch --no-merged
 5. git branch -d develop
 6. git branch -D develop
-7. 
+7.  
 8. 
 
 
