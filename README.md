@@ -67,17 +67,14 @@
 38. git remote add origin git@github.com:sagar-iitg/git-learning.git
 39. git remote -v
 ### git alias
-40. git config --global alias.st status
+40. git config --global alias.st status 
 41. git config --global alias.last 'log -p -1'
-42. git config --globa; alias.unstage 'restore --staged --'
-43. git config --global --unset alias.st
-### git creating and branching
-44. git chekout -b develop
-45. git branch
-46. 
+42. git config --global alias.unstage 'restore --staged --'
+43. git branch
+44. git config --global 
+45. git stash
+46. git stash pop
 47. 
-
-
 
 
 
