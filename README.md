@@ -74,6 +74,10 @@
 ### git creating and branching
 44. git chekout -b develop
 45.  
+46. 
+47. 
+
+
 
 
 
