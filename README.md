@@ -105,4 +105,7 @@ Conflict Resoultion marker (<<< HEAD)
 ## clear git repository
 1. rm -rf .git
 
+## Remove directory from Git but NOT local
+1. git rm -r --cached myFolder
+
 
