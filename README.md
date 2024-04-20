@@ -111,6 +111,6 @@ Conflict Resoultion marker (<<< HEAD)
 
 
 ## Forked Repo
-1. 
+1. git remote add upstream "forked branch link"
 
 
