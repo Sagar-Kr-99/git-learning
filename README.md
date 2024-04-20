@@ -109,3 +109,8 @@ Conflict Resoultion marker (<<< HEAD)
 1. git rm -r --cached myFolder
 
 
+
+## Forked Repo
+1. 
+
+
